@@ -1,0 +1,57 @@
+.racun-naslov{
+    font-size: 20px;
+    font-family: "Merchant Copy";
+    text-align: center;
+}
+
+@font-face{
+    font-family: "Merchant Copy";
+src: url(MerchantCopy.ttf);
+}
+
+.racun-naslov td{
+border: 0 !important;
+line-height: normal;
+}
+
+.racun-firma{
+    width: 57mm;
+    text-align: center;
+    font-size: 15px;
+}
+
+.racun-crtice{
+    font-size: 15px;
+}
+
+.racun-pib{
+    text-align: left;
+    font-size: 15px;
+}
+
+.logo_racun{
+    width: 50px;
+}
+
+.kol_cena{
+    text-align: left;
+    padding-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.porez_tekst{
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.za_uplatu{
+    font-size: 20px;
+}
+
+.logo_fiskalni{
+    width: 30px;
+}
